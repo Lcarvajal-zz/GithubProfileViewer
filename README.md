@@ -10,7 +10,7 @@ The Github Profile Viewer will use [Github's API](https://developer.github.com/v
 
 ## Todo
 
-- [] Get the layout down
+- [x] Get the layout down
 - [] Create data model for profiles
 - [] Create view model for profiles
 - [] Start testing app with mock data
